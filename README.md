@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odik5222
 - 👀 I’m interested in it sphere
-- 🌱 I’m currently learning in the Java
+- 🌱 I’m currently learning in the Javascript
 - 📫 How to reach me @odik__1337
 
 <!---
